@@ -1,0 +1,12 @@
+@media only screen and (min-width:0px) and (max-width:567px){
+    .logo{
+        text-align: center;
+    }
+    .s-links{
+        margin-top: 0px;
+        text-align: center;
+    }
+    .form-in{
+        margin-top: 20px;
+    }
+}
